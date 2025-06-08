@@ -112,8 +112,8 @@ Devuelve la lista de todas las ofertas realizadas (direcciones y montos).
 ## Despliegue
 
 - Contrato desplegado y verificado en Scroll Sepolia.
-- [URL del contrato en Scroll Sepolia] https://sepolia.etherscan.io/address/0x3d2994e3c0f63ab9269c5bd8449761e64f018fca
-
+ [https://sepolia.etherscan.io/address/0x3d2994e3c0f63ab9269c5bd8449761e64f018fca]
+- Contrato desplegado con 700K segundos de duración y 100 wei como valor inicial.
 ---
 
 ## Uso
